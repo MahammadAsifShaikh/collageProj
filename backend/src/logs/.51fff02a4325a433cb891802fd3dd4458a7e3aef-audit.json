@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "D:\\college-management-system\\backend\\src\\logs\\.51fff02a4325a433cb891802fd3dd4458a7e3aef-audit.json",
+    "files": [
+        {
+            "date": 1743428867792,
+            "name": "D:\\college-management-system\\backend\\src\\logs\\app-2025-03-31.log",
+            "hash": "78eac36e0fe7a8c78e623533b6fff4db2a8231c080010c6e4a6524ace2c32f79"
+        },
+        {
+            "date": 1743445896238,
+            "name": "D:\\college-management-system\\backend\\src\\logs\\app-2025-04-01.log",
+            "hash": "49deefc72601aca8afe81f5e7076c04e232dded45a0ed6776cda95e7e77da8e4"
+        }
+    ],
+    "hashType": "sha256"
+}

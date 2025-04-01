@@ -1,0 +1,14 @@
+2025-03-31 19:19:54 [INFO]: ✅ Info: This is a test log.
+2025-03-31 19:19:54 [WARN]: ⚠️ Warning: Testing a warning log.
+2025-03-31 19:19:54 [ERROR]: ❌ Error: Simulating an error log.
+2025-03-31 19:30:15 [INFO]: ✅ Info: This is a test log.
+2025-03-31 19:30:15 [WARN]: ⚠️ Warning: Testing a warning log.
+2025-03-31 19:30:15 [ERROR]: ❌ Error: Simulating an error log.
+2025-03-31 19:30:44 [INFO]: ✅ Info: This is a test log.
+2025-03-31 19:30:44 [WARN]: ⚠️ Warning: Testing a warning log.
+2025-03-31 19:30:44 [ERROR]: ❌ Error: Simulating an error log.
+2025-03-31 19:31:13 [INFO]: ✅ Info: This is a test log.
+2025-03-31 19:31:13 [WARN]: ⚠️ Warning: Testing a warning log.
+2025-03-31 19:31:13 [ERROR]: ❌ Error: Simulating an error log.
+2025-03-31 20:09:17 [INFO]: 📌 API Called: [GET] /
+2025-03-31 20:11:49 [ERROR]: ❌ Error fetching admins: Cannot calculate the square root of a negative number. requested api is : /

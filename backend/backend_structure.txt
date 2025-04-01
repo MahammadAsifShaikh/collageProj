@@ -1,0 +1,56 @@
+Folder PATH listing
+Volume serial number is 4CFF-8E33
+D:.
+|   .env
+|   backend_structure.txt
+|   nodemon.json
+|   package-lock.json
+|   package.json
+|   tsconfig.json
+|   
++---src
+|   |   index.ts
+|   |   
+|   +---config
+|   |       database.ts
+|   |       swagger.json
+|   |       swaggerConfig.ts
+|   |       
+|   +---constants
+|   |       httpStatusCodes.ts
+|   |       responseMessages.ts
+|   |       
+|   +---controllers
+|   |       adminController.ts
+|   |       principalController.ts
+|   |       studentController.ts
+|   |       teacherController.ts
+|   |       
+|   +---middlewares
+|   |       authMiddleware.ts
+|   |       errorHandler.ts
+|   |       
+|   +---models
+|   |       Admin.ts
+|   |       BaseModel.ts
+|   |       index.ts
+|   |       Principal.ts
+|   |       Student.ts
+|   |       Teacher.ts
+|   |       
+|   +---routes
+|   |       adminRoutes.ts
+|   |       principalRoutes.ts
+|   |       studentRoutes.ts
+|   |       teacherRoutes.ts
+|   |       
+|   +---seeders
+|   |       seed.ts
+|   |       
+|   \---services
+|           adminService.ts
+|           principalService.ts
+|           studentService.ts
+|           teacherService.ts
+|           
+\---uploads
